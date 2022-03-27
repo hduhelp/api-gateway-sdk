@@ -1,4 +1,4 @@
-package autoMigrate
+package svs
 
 import (
 	"gorm.io/gorm"
